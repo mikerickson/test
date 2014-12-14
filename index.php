@@ -1,5 +1,5 @@
 <?php
 echo 'this is my git test!';
-echo 'MASTER - more text';
+echo 'MASTER - some more text';
 exit;
 ?>
