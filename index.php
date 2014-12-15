@@ -1,7 +1,7 @@
 <?php
-echo 'This is my GIT test!';
-echo 'Master Branch - yes, that worked! <br />another conflict more text';
-echo 'Introducing a change to Master...';
-echo 'A New Factoid Here - now it\'s up to date.!';
+echo '<h1>This is my GIT test!</h1>';
+echo 'Master Branch - yes, that worked! <br />another conflict more text<br />';
+echo '<h4>Introducing a change to Master...</h4>';
+echo '<p>A New Factoid Here - now it\'s up to date!</p>';
 exit;
 ?>
